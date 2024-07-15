@@ -1,16 +1,15 @@
-## Hi there 👋
-
-<!--
-**sayounaras/sayounaras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p float="left">
+ <img src="https://i.pinimg.com/originals/13/64/f3/1364f301d7181e2acc516f702c4ce274.gif" width="350" align="left">
+  <p float="left">
+    <samp>
+      <br>
+      <br>
+      <br>
+      <br>
+      learning the ropes
+      <br>
+      <br>
+      testando coisas aqui. nada de útil.
+    </samp>
+  </p>
+</p>
