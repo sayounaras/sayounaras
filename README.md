@@ -16,24 +16,17 @@
     │
     ├── /bio
     │   ├── brazilian - (pt/br + english [learning jp])
-    │   ├── /architect && urbanist
-    │   ├── /amateur guitarist
+    │   ├── /architect & urbanist
     │   └── /fullstack dev @ FIAP (ongoing [mar. 2024 - jan. 2025])
     │
     ├── /os
     │   └── /windows
     │       └── Windows 11: with WSL (Ubuntu 18.3)
     │
-    ├── /languages
+    └── /languages
     │   ├── javascript.js
     │   ├── typescript.ts
     │   └── python.py
-    │
-    └── /learning
-        ├── node.js
-        ├── angular.js
-        ├── react.js
-        └── next.js
         
   </tr>
 </table>
