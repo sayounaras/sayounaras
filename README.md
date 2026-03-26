@@ -17,7 +17,7 @@
     ├── /bio
     │   ├── brazilian - (pt/br + english [learning jp])
     │   ├── /architect & urbanist
-    │   └── /fullstack dev @ FIAP (ongoing [mar. 2024 - jan. 2025])
+    │   └── /fullstack dev graduate school @ FIAP (mar. 2024 - jan. 2025)
     │
     ├── /os
     │   └── /windows
